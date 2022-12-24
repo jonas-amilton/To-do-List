@@ -4,4 +4,4 @@
 
 ### Demonstração
 
-<a href="https://to-do-list-kappa-pearl.vercel.app/">Clique aqui</a>
+<a href="https://to-do-list-kappa-pearl.vercel.app/ target_blank">Clique aqui</a>

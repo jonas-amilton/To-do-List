@@ -1,8 +1,8 @@
 # To-do-List - Um gerenciador de tarefas bem simples em JS puro organizado em componentes
 
-<img src="/image/img-demo.png">
-
 <video src="/assets/componentes-unisinos.mp4">Tarefa da Unisinos de componentes</video>
+
+[<img src="/image/img-demo.png" width="100%">](https://youtu.be/iHtGnoKyGjo "Explicação da Tarefa no Youtube")
 
 ### Demonstração
 

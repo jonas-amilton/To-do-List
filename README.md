@@ -2,7 +2,7 @@
 
 <img src="/image/img-demo.png">
 
-<video src="/assets/componentes-unisinos.mp4"></video>
+<video src="/assets/componentes-unisinos.mp4">Tarefa da Unisinos de componentes</video>
 
 ### Demonstração
 

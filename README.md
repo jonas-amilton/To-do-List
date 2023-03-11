@@ -1,4 +1,4 @@
-# To-do-List - Um gerenciador de tarefas bem simples em JS puro
+# To-do-List - Um gerenciador de tarefas bem simples em JS puro organizado em componentes
 
 <img src="/image/img-demo.png">
 

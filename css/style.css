@@ -59,7 +59,7 @@ body {
 }
 
 .list {
-  padding: 0;
+  padding: 4px;
   list-style: none;
   width: 100%;
 }
